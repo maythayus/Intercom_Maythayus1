@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20.ui
+package fr.maythayus.intercom2sos.ui
 
 import android.Manifest
 import android.content.ComponentName
@@ -21,9 +21,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.example.intercomaythayus1v20.ble.BleHeartRateManager
-import com.example.intercomaythayus1v20.usb.UsbService
-import com.example.intercomaythayus1v20.ui.theme.IntercomAyThayus1V20Theme
+import fr.maythayus.intercom2sos.ble.BleHeartRateManager
+import fr.maythayus.intercom2sos.usb.UsbService
+import fr.maythayus.intercom2sos.ui.theme.IntercomAyThayus1V20Theme
 import com.google.android.gms.location.LocationServices
 import com.google.android.gms.location.Priority
 import com.google.android.gms.tasks.CancellationTokenSource

@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20
+package fr.maythayus.intercom2sos
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

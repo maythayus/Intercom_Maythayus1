@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20.ui.theme
+package fr.maythayus.intercom2sos.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

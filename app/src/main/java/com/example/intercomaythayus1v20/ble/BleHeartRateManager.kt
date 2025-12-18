@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20.ble
+package fr.maythayus.intercom2sos.ble
 
 import android.Manifest
 import android.bluetooth.BluetoothAdapter

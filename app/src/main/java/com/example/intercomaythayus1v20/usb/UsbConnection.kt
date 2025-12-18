@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20.usb
+package fr.maythayus.intercom2sos.usb
 
 import android.hardware.usb.UsbDevice
 import android.hardware.usb.UsbDeviceConnection

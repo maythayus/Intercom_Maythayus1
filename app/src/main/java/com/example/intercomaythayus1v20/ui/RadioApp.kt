@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20.ui
+package fr.maythayus.intercom2sos.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectTapGestures

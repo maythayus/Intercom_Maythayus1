@@ -1,4 +1,4 @@
-package com.example.intercomaythayus1v20.usb
+package fr.maythayus.intercom2sos.usb
  
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -17,7 +17,7 @@ import android.os.IBinder
 import androidx.core.app.NotificationCompat
 import fr.maythayus.intercom2sos.BuildConfig
 import fr.maythayus.intercom2sos.R
-import com.example.intercomaythayus1v20.ui.MainActivity
+import fr.maythayus.intercom2sos.ui.MainActivity
 import java.util.concurrent.atomic.AtomicBoolean
  
 class UsbService : Service() {
