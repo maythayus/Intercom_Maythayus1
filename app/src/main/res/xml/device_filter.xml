@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Configuration pour le Raspberry Pi Pico en mode CDC -->
+    <usb-device
+        vendor-id="11914"
+        product-id="10" />
+</resources>

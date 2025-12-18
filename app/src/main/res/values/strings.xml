@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intercom² SOS+</string>
+    <string name="status_ready">Prêt</string>
+    <string name="status_transmitting">Émission</string>
+    <string name="frequency_format">%s MHz</string>
+    <string name="signal_strength_format">%d dBm</string>
+</resources>
