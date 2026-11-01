@@ -1,5 +1,12 @@
 # Intercom2SOS — Survival Pack (Android)
 
+> **This project has been overtaken by time.** To turn an Android phone into a radio, I now recommend
+> **[kv4p HT](https://github.com/VanceVagell/kv4p-ht)** by Vance Vagell: an open source (GPL-3.0), actively
+> maintained handheld ham radio project with ESP32 firmware, an Android app, PCB files and a 3D-printed case.
+> Project site: [kv4p.com](https://kv4p.com). A ready-to-use unit is also available on
+> [my store](https://maythayus1.store/produit/radio-vhf-artisanale-kv4p-ht-transformation-dun-smartphone-android-en-emetteur-recepteur-radioamateur-pcb-v2-0-avec-module-sa818-v-sa818s/).
+> Transmitting on amateur radio bands generally requires a licence: check the rules in your country.
+
 **Intercom2SOS** is an Android “survival pack” app: **Intercom / Push‑To‑Talk**, **SOS assistance** for life‑threatening situations, and enhanced **Xiaomi ecosystem compatibility** (phones + optional BLE ring/HR sensor, depending on your setup).
 
 > Goal: provide a **fast and reliable workflow** to trigger an alert, share GPS location, and (when available) transmit an emergency voice message through an external USB/radio module.
