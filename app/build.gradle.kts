@@ -10,7 +10,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "fr.maythayus.intercom2sos"
+        applicationId = "com.MaythayusCorp.intercom2sos"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
